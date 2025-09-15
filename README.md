@@ -37,7 +37,7 @@ Compared to **drop-on-demand (DOD) printers**, CIJPs are faster and more common 
 
 | File | Description |
 |------|-------------|
-| `letter_gifs` | Example gifs produced by the MATLAB live scrift |
+| `letter_gifs` | Example gifs produced by the MATLAB live script |
 | `Inkjet Printing Paper.pdf` | Detailed write-up of math/physics behind the code |
 | `Inkjet_Printing.mlx` | MATLAB live script implementing the simulation. |
 | `Inkjet_Printing.txt` | Text file of MATLAB simulation code for online viewing. |
